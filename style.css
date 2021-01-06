@@ -1,0 +1,23 @@
+h1{
+    font-size: 50px;
+}
+.hello{
+    color: darkblue;
+}
+.name{
+    color: rgb(18, 126, 250);
+}
+#hireme{
+    color: rgb(0, 0, 255);
+    background-color:skyblue;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.sectionone{
+    width: 40%;
+    float: left;
+}
+.sectionone img{
+    width: 100%;
+}

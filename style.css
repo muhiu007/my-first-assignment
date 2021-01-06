@@ -17,6 +17,8 @@ h1{
 .sectionone{
     width: 40%;
     float: left;
+    padding-left: 5%;
+    margin-left: 2%;
 }
 .sectionone img{
     width: 100%;

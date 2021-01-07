@@ -1,3 +1,7 @@
+.topbuttons{
+   float:right;
+   margin-right: 20px ;
+}
 h1{
     font-size: 50px;
 }
@@ -7,7 +11,7 @@ h1{
 .name{
     color: rgb(18, 126, 250);
 }
-#hireme{
+#anchor{
     color: rgb(0, 0, 255);
     background-color:skyblue;
     text-decoration: none;
@@ -22,4 +26,14 @@ h1{
 }
 .sectionone img{
     width: 100%;
+}
+.topsite{
+    padding-top: 50px;
+    height: 500px;
+}
+#latest{
+    color:darkgreen;
+}
+.middlepart{
+    margin-top: 50px;
 }

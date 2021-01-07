@@ -37,3 +37,12 @@ h1{
 .middlepart{
     margin-top: 50px;
 }
+.projectwork{
+    width: 25%;
+    float: left;
+    padding-left: 6px;
+    box-shadow: darkgreen;
+}
+.projectpic{
+    width: 100%;
+}
